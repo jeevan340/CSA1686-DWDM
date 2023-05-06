@@ -20,4 +20,7 @@ ADD
 SUB
 MUL
 DIV
-(21)
+mean
+median
+histogram
+(24)
