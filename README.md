@@ -11,4 +11,9 @@ fibonacci series
 linear regression
 scatter plot
 travel times
-(12)
+ass1
+ass2
+ass3
+confusion matrix
+chi square
+(16)
