@@ -16,4 +16,8 @@ ass2
 ass3
 confusion matrix
 chi square
-(16)
+ADD
+SUB
+MUL
+DIV
+(21)
